@@ -24,4 +24,4 @@ Training data consists of 18506 reviews as well, provided in the file train.dat.
 * Final accuracy obtained on 100% test data = 79.89%
 
 
-Markup : ![picture alt](https://github.com/nivedithabhandary/Amazon-Review-Classification-using-KNN-Classifier/blob/master/results.png)
+![picture alt](https://github.com/nivedithabhandary/Amazon-Review-Classification-using-KNN-Classifier/blob/master/results.png)
