@@ -22,3 +22,6 @@ Training data consists of 18506 reviews as well, provided in the file train.dat.
 * Cross validation was used to find the Best K value for KNN classification. 
 * Best K value obtained for the last run was K = 19. Accuracy significantly increased from 71.85% to 79.94% when Stemmers, Inverse Document Frequency and K-mer steps were included.
 * Final accuracy obtained on 100% test data = 79.89%
+
+
+Markup : ![picture alt](https://github.com/nivedithabhandary/Amazon-Review-Classification-using-KNN-Classifier/blob/master/results.png)
